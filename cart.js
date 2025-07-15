@@ -60,8 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   checkoutBtn.addEventListener('click', () => {
-    // Redirect către pagina de checkout
-    window.location.href = "../checkout/checkout.html";
+    // FIX pentru root
+    window.location.href = "checkout.html";
   });
 
   renderCart();

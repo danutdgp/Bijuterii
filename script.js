@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const prev = slider.querySelector('.slider-prev');
     const next = slider.querySelector('.slider-next');
 
-    // Match dimension in CSS (image size + gap)
+    // Setare dimensiuni conform CSS (imagine + gap)
     const imageWidth = 280;
     const gap = 20;
     const scrollAmount = imageWidth + gap;

@@ -4,6 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
     e.preventDefault();
     alert('Comanda ta a fost trimisă cu succes!');
     localStorage.removeItem('cart');
-    window.location.href = "/home/index.html";
+    window.location.href = "index.html";
   });
 });
