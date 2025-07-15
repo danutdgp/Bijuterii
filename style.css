@@ -353,15 +353,15 @@ header .logo h1 {
 }
 
 .highlight-card.exclusive {
-  background-image: url('../assets/images/highlight-exclusive.jpg');
+  background-image: url('images/highlight-exclusive.jpg');
 }
 
 .highlight-card.nou {
-  background-image: url('../assets/images/highlight-nou.jpg');
+  background-image: url('images/highlight-nou.jpg');
 }
 
 .highlight-card.bestseller {
-  background-image: url('../assets/images/highlight-bestseller.jpg');
+  background-image: url('images/highlight-bestseller.jpg');
 }
 
 /* === NEWSLETTER === */
